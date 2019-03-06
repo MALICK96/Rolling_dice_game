@@ -1,3 +1,9 @@
+/**
+ * Purpose: This Program build a Simple Dice game.
+ * Author: Malick Diakite
+ * Date: 06/03/2019
+**/
+
 // This function take the user input and generate a random number between 1-6
 function playDice() {
     // Prompt the user for his name
