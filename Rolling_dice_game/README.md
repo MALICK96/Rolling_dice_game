@@ -1,0 +1,1 @@
+This Program build a Simple Dice game that allow the user to play three times and each time he/she is prompted to enter an integer number between 1 to 6 and the computer also generate  a random integer between that range. If the user Win the game or looses the game he/she is asked a question if he/she desires to play again based on the answer the program executes or terminates.
